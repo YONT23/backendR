@@ -1,0 +1,12 @@
+Package             Version
+------------------- -------
+asgiref             3.6.0
+backports.zoneinfo  0.2.1
+Django              4.1.7
+djangorestframework 3.14.0
+mysqlclient         2.1.1
+pip                 23.1.2
+pytz                2023.3
+setuptools          41.2.0
+sqlparse            0.4.4
+tzdata              2023.3
